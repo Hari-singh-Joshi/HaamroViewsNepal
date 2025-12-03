@@ -1,0 +1,52 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Nepal National Press Conference",
+      "image": "/g1.jfif",
+      "category": "Events"
+    },
+    {
+      "id": 2,
+      "title": "Nepal Tech Innovation Expo",
+      "image": "/g2.jpeg",
+      "category": "Technology"
+    },
+    {
+      "id": 3,
+      "title": "Himalayan Environmental Conservation Drive",
+      "image": "g3",
+      "category": "Environment"
+    },
+    {
+      "id": 4,
+      "title": "Nepal Business Summit",
+      "image": "/g4.png",
+      "category": "Business"
+    },
+    {
+      "id": 5,
+      "title": "Nepal National Sports Tournament",
+      "image": "/g5.jfif",
+      "category": "Sports"
+    },
+    {
+      "id": 6,
+      "title": "Healthcare Progress in Nepal",
+      "image": "/g6.jpg",
+      "category": "Health"
+    },
+    {
+      "id": 7,
+      "title": "Nepal Cultural Heritage Festival",
+      "image": "/g7.jpg",
+      "category": "Culture"
+    },
+    {
+      "id": 8,
+      "title": "Himalayan Scientific Research Breakthrough",
+      "image": "/g8.webp",
+      "category": "Science"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "featured": [
+    {
+      "id": 1,
+      "title": "Breaking: Kathmandu Unveils Smart City Roadmap",
+      "excerpt": "The Nepal government has announced a new Smart City initiative aimed at improving traffic management, digital governance, and urban infrastructure across the Kathmandu Valley.",
+      "category": "Technology",
+      "image": "/one.jpg",
+      "date": "Dec 3, 2025",
+      "author": "Aarati Shrestha",
+      "readTime": "5 min read"
+    },
+    {
+      "id": 2,
+      "title": "Nepal’s Tourism Rebounds Strongly as Visitor Numbers Surge",
+      "excerpt": "Hotels and trekking agencies report a significant rise in bookings as tourism recovers, driven by improved international connectivity and new trekking routes.",
+      "category": "Business",
+      "image": "/twos.png",
+      "date": "Dec 2, 2025",
+      "author": "Ramesh Karki",
+      "readTime": "4 min read"
+    },
+    {
+      "id": 3,
+      "title": "Climate Summit in Kathmandu Reaches Regional Green Energy Pact",
+      "excerpt": "South Asian leaders meeting in Kathmandu have agreed to collaborate on hydropower development and carbon emissions reduction, marking a major milestone in climate cooperation.",
+      "category": "Environment",
+      "image": "/three.jpg",
+      "date": "Dec 1, 2025",
+      "author": "Sangita Rana",
+      "readTime": "6 min read"
+    }
+  ],
+  "trending": [
+    {
+      "id": 4,
+      "title": "New Himalayan Highway Project Begins Construction",
+      "category": "Infrastructure",
+      "image": "/four.jpg",
+      "trending": true
+    },
+    {
+      "id": 5,
+      "title": "Nepal Secures Historic Win in ACC Premier Cup",
+      "category": "Sports",
+      "image": "/five.webp",
+      "trending": true
+    },
+    {
+      "id": 6,
+      "title": "Kathmandu Film Festival Kicks Off with Star-Studded Opening",
+      "category": "Entertainment",
+      "image": "/six.jpg",
+      "trending": true
+    },
+    {
+      "id": 7,
+      "title": "Major Medical Breakthrough as Nepali Doctors Perform First Robotic Surgery",
+      "category": "Health",
+      "image": "/seven.jpeg",
+      "trending": true
+    }
+  ],
+  "categories": [
+    "Technology",
+    "Business",
+    "Environment",
+    "Health",
+    "Sports",
+    "Entertainment",
+    "Science",
+    "Politics",
+    "Infrastructure",
+    "Tourism"
+  ]
+}
