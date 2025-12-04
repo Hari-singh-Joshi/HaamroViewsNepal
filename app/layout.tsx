@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     title: "Haamro Views Nepal – Nepal Latest News & Live Updates",
     description:
       "Trusted Nepali news platform delivering breaking news, trending stories, and in-depth analysis. Stay informed with real-time updates from across Nepal.",
-    url: "https://www.haamroviewsnepal.vercel.app",
+    url: "https://www.haamroviewsnepal.com/",
     siteName: "Haamro Views Nepal",
     images: [
       {
