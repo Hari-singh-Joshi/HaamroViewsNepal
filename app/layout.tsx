@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     title: "Haamro Views Nepal – Nepal Latest News & Live Updates",
     description:
       "Trusted Nepali news platform delivering breaking news, trending stories, and in-depth analysis. Stay informed with real-time updates from across Nepal.",
-    url: "https://www.haamroviewsnepal.com",
+    url: "https://www.haamroviewsnepal.vercel.app",
     siteName: "Haamro Views Nepal",
     images: [
       {
@@ -68,11 +68,11 @@ export const metadata: Metadata = {
 
  icons: {
   icon: [
-    { url: "/logo.png", type: "image/png", sizes: "32x32" },
-    { url: "/logo.png", type: "image/png", sizes: "16x16" }
+    { url: "/favicon.ico", type: "image/png", sizes: "32x32" },
+    { url: "/favicon.ico", type: "image/png", sizes: "16x16" }
   ],
-  shortcut: "/logo.png",
-  apple: "/logo.png"
+  shortcut: "/favicon.ico",
+  apple: "/favicon.ico"
 },
 
 }
